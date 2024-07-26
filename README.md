@@ -1,5 +1,3 @@
-Stack Data Structures
-
 This project implements two stack data structures: one using arrays and another using linked lists. 
 It includes functionalities to create, manipulate, and test stacks, as well as check for palindromes 
 using these stacks.
